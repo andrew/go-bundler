@@ -1,0 +1,5 @@
+# Dependencies in github.com/org/repo version format
+# These would need go.mod files in their repos to work
+
+github.com/rack/rack v3.1.8
+github.com/sinatra/sinatra v4.1.1

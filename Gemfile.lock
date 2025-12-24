@@ -1,0 +1,60 @@
+PATH
+  remote: .
+  specs:
+    go-bundler (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.5.1)
+    erb (6.0.1)
+    io-console (0.8.2)
+    irb (1.16.0)
+      pp (>= 0.6.0)
+      rdoc (>= 4.0.0)
+      reline (>= 0.4.2)
+    minitest (5.27.0)
+    pp (0.6.3)
+      prettyprint
+    prettyprint (0.2.0)
+    psych (5.3.1)
+      date
+      stringio
+    rake (13.3.1)
+    rdoc (7.0.2)
+      erb
+      psych (>= 4.0.0)
+      tsort
+    reline (0.6.3)
+      io-console (~> 0.5)
+    stringio (3.2.0)
+    tsort (0.2.0)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  go-bundler!
+  irb
+  minitest (~> 5.16)
+  rake (~> 13.0)
+
+CHECKSUMS
+  date (3.5.1)
+  erb (6.0.1)
+  go-bundler (0.1.0)
+  io-console (0.8.2)
+  irb (1.16.0)
+  minitest (5.27.0)
+  pp (0.6.3)
+  prettyprint (0.2.0)
+  psych (5.3.1)
+  rake (13.3.1)
+  rdoc (7.0.2)
+  reline (0.6.3)
+  stringio (3.2.0)
+  tsort (0.2.0)
+
+BUNDLED WITH
+  4.0.1
