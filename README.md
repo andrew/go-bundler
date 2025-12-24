@@ -9,7 +9,7 @@ require "github.com/rack/rack"
 require "github.com/rails/rails"
 ```
 
-Uses Go's module proxy to fetch Ruby gems. See [the blog post](https://nesbitt.io/2025/12/25/go-get-for-rubygems.html) for the full explanation.
+Uses Go's module proxy to fetch Ruby gems. See [the blog post](https://nesbitt.io/2025-12-25-cursed-bundler-using-go-get-to-install-ruby-gems.md) for the full explanation.
 
 ## Usage
 
