@@ -1,5 +1,7 @@
 # go-bundler
 
+**Do not use this.** It's a joke that happens to work.
+
 Go-style imports for Ruby:
 
 ```ruby
@@ -52,4 +54,4 @@ Go's module proxy caches any repo with a `go.mod` file and logs its hash in a tr
 
 Modules land in `~/.go-bundler/pkg/mod/github.com/org/repo@version/`. The require hook finds the right `lib/` directory and loads from there.
 
-This is a proof of concept.
+Seriously, don't use this.
